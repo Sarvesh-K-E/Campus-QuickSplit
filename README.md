@@ -5,6 +5,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+[![Download APK](https://img.shields.io/badge/Download_App-APK_(73MB)-FF5252?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1HqMx2LauwsbZ86wX8gXiYC9CDCHMkocK/view?usp=sharing)
+
 ## Overview
 
 A frictionless, **offline-first** peer expense tracker built entirely in Flutter. 
