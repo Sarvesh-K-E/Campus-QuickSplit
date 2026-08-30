@@ -1,11 +1,21 @@
-# Campus QuickSplit
+<div align="center">
+  <img src="assets/icon.png" alt="Campus QuickSplit Logo" width="120" />
+  
+  <h1>Campus QuickSplit</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </p>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-[![Download APK](https://img.shields.io/badge/Download_App-APK_(73MB)-FF5252?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1HqMx2LauwsbZ86wX8gXiYC9CDCHMkocK/view?usp=sharing)
+  <p>
+    <a href="https://drive.google.com/file/d/1HqMx2LauwsbZ86wX8gXiYC9CDCHMkocK/view?usp=sharing">
+      <img src="https://img.shields.io/badge/Download_App-APK_(73MB)-FF5252?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+    </a>
+  </p>
+</div>
 
 ## Overview
 
